@@ -1,0 +1,31 @@
+:root {
+  /* ── Font Families ── */
+  --primary-font: "Open Sans", Arial, Helvetica, sans-serif;
+  --secondary-font: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+  /* ── Font Sizes ── */
+  --font-size-title-main: 36px;
+  --font-size-section-title: 22px;
+  --font-size-subheading: 18px;
+  --font-size-body: 16px;
+  --font-size-meta: 14px;
+  --font-sm: 12px;
+
+  /* ── Colors ── */
+  --color-primary-accent: #6c9a8b;
+  --color-primary-dark: rgb(74, 124, 89);
+  --color-bg-light: #f8f9f9;
+  --color-bg-white: #ffffff;
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-text-title: #000000;
+  --color-button-text: #ffffff;
+
+  /* ── Spacing ── */
+  --spacing-section-padding: 40px;
+  --border-radius-card: 8px;
+
+  /* ── Layout ── */
+  --container-size: 1200px;
+  --section-x-pad: 60px;
+}
